@@ -1,11 +1,21 @@
-## Hi there 👋
+## Hi there 👋 I'm Gili.
+
+🔭 I’m currently working on ...
+
+- [Requirements API](https://github.com/cowwoc/requirements.java): A fluent API for enforcing design contracts, available in Java and [Typescript](https://github.com/cowwoc/requirements.js) flavors.
+- [Pouch](https://github.com/cowwoc/pouch): Inversion of Control that's designed for ease of use and debugging.
+- [DigitalOcean](https://github.com/cowwoc/digitalocean): A Java client for the DigitalOcean cloud platform.
+- [Docker](https://github.com/cowwoc/docker): A Java client for Docker.
+
+📫 How to reach me: ...
+* mail: cowwoc2020@gmail.com
+* linkedin: [linkedin.com/in/gilitzabari/](https://www.linkedin.com/in/gilitzabari/)
 
 <!--
 **cowwoc/cowwoc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
